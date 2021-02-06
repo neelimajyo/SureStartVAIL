@@ -1,1 +1,1 @@
-# SureStartVAIL
+February 8th: I am looking forward to learning how to more effiently utilize different libraries on Python for data analysis and Machine Learning. Using the libraries, I am excited for whatever creative process me and my team decide to pursue during the Makeathon, giving us real hands on experience with Artificial Intelligence.
